@@ -1,6 +1,6 @@
 # simple-login-webapp
 
- It is a login web application, created using Javascript and jquery with validation.
+ It is a login web application, created using jquery with validation.
 
 # How to run this project
 
